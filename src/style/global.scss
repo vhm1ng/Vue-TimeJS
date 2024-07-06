@@ -1,0 +1,27 @@
+@mixin changeWidth($maxWidth: 1200px) {
+  .container {
+    max-width: $maxWidth;
+  }
+}
+
+@include changeWidth;
+
+@media (max-width: 1380px) {
+  .el-radio-group {
+    justify-content: center !important;
+  }
+}
+
+@media (max-width: 1280px) {
+  @include changeWidth($maxWidth: 1100px);
+}
+
+@media (max-width: 992px) {
+  @include changeWidth($maxWidth: 900px);
+}
+
+@media (max-width: 720px) {
+  .xs-hidden {
+    display: none;
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Store",
+    "name": "My Store",
+    "link": "https://store.vhming.com"
+  },
+  {
+    "icon": "Github",
+    "name": "My Github",
+    "link": "https://github.com/vhming"
+  },
+  {
+    "icon": "Discord",
+    "name": "My Discord",
+    "link": "https://discord.gg/m85dSPt4zN"
+  },
+  {
+    "icon": "Facebook",
+    "name": "My Facebook",
+    "link": "https://facebook.com"
+  },
+  {
+    "icon": "Spotify",
+    "name": "My Spotify",
+    "link": "https://open.spotify.com/user/31pqqnbfdn6ojj523ov7vltu2ppm"
+  },
+  {
+    "icon": "Steam",
+    "name": "My Steam",
+    "link": "https://steamcommunity.com/id/vhm1ng/"
+  }
+]

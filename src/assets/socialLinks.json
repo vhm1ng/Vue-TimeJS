@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "Github của tôi",
+    "url": "https://github.com/vhm1ng"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "Telegram của tôi",
+    "url": "https://t.me/vhming"
+  },
+  {
+    "name": "Weixin",
+    "icon": "/images/icon/weixin.png",
+    "tip": "Weixin ID: @vhming_"
+  },
+  {
+    "name": "Facebook",
+    "icon": "/images/icon/facebook.png",
+    "tip": "FB của tớ :3",
+    "url": "https://facebook.com/vhming"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "Gửi mail cho tớ !",
+    "url": "mailto:vhm1ng@vhming.com"
+  }
+]
